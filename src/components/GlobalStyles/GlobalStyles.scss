@@ -1,0 +1,40 @@
+@import "normalize.css";
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;1,100;1,500&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600&display=swap");
+
+:root {
+  --primary: #EC4E6E;
+  --black:#060606;
+  --white:#fff;
+  --default-layout-header-height:60px;
+  --default-layout-width:1150px;
+  --color-text-white:#ADB9D8;
+  --color-header-primary:#35415E;
+  --color-bg-primary:#2A3550;
+  --color-border:#1C2333;
+  
+
+  --hight-header: calc(1 * var(--default-layout-header-height) + 14px);
+}
+
+html {
+  font-size: 62.5%;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  //font-family: 'Montserrat', sans-serif;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-rendering: optimizeSpeed;
+}
+
+input, button, [tabindex]{
+  outline: none;
+  border: none;
+}

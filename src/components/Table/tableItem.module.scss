@@ -1,0 +1,13 @@
+.tableItem{
+    background-color: var(--color-header-primary);
+    margin: 10px 0;
+    padding: 10px  0;
+    text-align: center;
+    border: 1px solid var(--color-border);
+    border-radius: 5px;
+    color: var(--white);
+    font-size: 1.2rem;
+    &:hover{
+        border: 1px solid var(--bs-primary);
+    }
+}
