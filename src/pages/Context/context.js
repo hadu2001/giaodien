@@ -83,27 +83,8 @@ function Context() {
       >
         {/* table small */}
         <div className="text-sm-left mb-3  text-md-left mb-sm-0 col-12 col-sm-4">
-          <div className={cx("row", "mt-3")}>
-            <div
-              className={cx(
-                "text-col",
-                "text-sm-left mb-3 text-center text-md-left text-col  col-6"
-              )}
-            >
-              Dữ liệu
-            </div>
-            <div
-              className={cx(
-                "text-col",
-                "text-sm-left mb-3 text-center text-md-left text-col  col-6"
-              )}
-            >
-              Tổng
-            </div>
-          </div>
-          {datatable.map((data, index) => {
-            return <TableItem key={index} data={data}></TableItem>;
-          })}
+         <TableItem  data={datatable}></TableItem>;
+          
         </div>
         {/* table Detail */}
         <div
@@ -112,43 +93,8 @@ function Context() {
             "text-sm-left mb-3   text-md-left mb-sm-0 col-12 col-sm-6"
           )}
         >
-          <div className={cx("row ", "mt-3 ")}>
-            <div
-              className={cx(
-                "text-col",
-                "text-sm-left mb-3 text-center text-md-left text-col  col-3"
-              )}
-            >
-              Loại dữ liệu
-            </div>
-            <div
-              className={cx(
-                "text-col",
-                "text-sm-left mb-3 text-center text-md-left text-col  col-3"
-              )}
-            >
-              Ngày cập nhật
-            </div>
-            <div
-              className={cx(
-                "text-col",
-                "text-sm-left mb-3 text-center text-md-left text-col  col-3"
-              )}
-            >
-              Người cập nhật
-            </div>
-            <div
-              className={cx(
-                "text-col",
-                "text-sm-left mb-3 text-center text-md-left text-col  col-3"
-              )}
-            >
-              Công việc
-            </div>
-          </div>
-          {datatableDetail.map((data, index) => {
-            return <TableDetail key={index} data={data}></TableDetail>;
-          })}
+          <TableDetail data={datatableDetail}></TableDetail>;
+        
         </div>
       </div>
 
