@@ -3,6 +3,7 @@ import {Follow,Context} from './pages'
 import Main from './pages/Main/main'
 import { BrowserRouter as Router, Route,Routes } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Upload from './pages/Upload/upload';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
               <Route path='/' element={<Context></Context>}></Route>
               <Route path='/follow' element={<Follow></Follow>}></Route>
               <Route path='/context' element={<Context></Context>}></Route>
+              <Route path='/upload' element={<Upload></Upload>}></Route>
             </Routes>
           </MainLayout>
     
