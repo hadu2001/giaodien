@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="584.91" height="337.314" viewBox="0 0 584.91 337.314">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c0b0ff"/>
+      <stop offset="1" stop-color="#93aeff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2972" data-name="Group 2972" transform="translate(-172.5 -969)">
+    <rect id="Rectangle_690" data-name="Rectangle 690" width="583.91" height="336.314" rx="6" transform="translate(173 969.5)" fill="#35415e" stroke="#21293c" stroke-width="1"/>
+    <line id="Line_154" data-name="Line 154" x2="523" transform="translate(203.5 1226.5)" fill="none" stroke="#4e5677" stroke-width="1"/>
+    <line id="Line_155" data-name="Line 155" x2="523" transform="translate(203.5 1169.5)" fill="none" stroke="#4e5677" stroke-width="1"/>
+    <line id="Line_156" data-name="Line 156" x2="523" transform="translate(203.5 1112.5)" fill="none" stroke="#4e5677" stroke-width="1"/>
+    <path id="Rectangle_661" data-name="Rectangle 661" d="M6,0H6a6,6,0,0,1,6,6v97a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(203 1142)" fill="#f0eff7"/>
+    <path id="Rectangle_662" data-name="Rectangle 662" d="M6,0H6a6,6,0,0,1,6,6V79a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(223 1166)" fill="#f0eff7"/>
+    <path id="Rectangle_663" data-name="Rectangle 663" d="M6,0H6a6,6,0,0,1,6,6V110a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(242 1135)" fill="#f0eff7"/>
+    <path id="Rectangle_664" data-name="Rectangle 664" d="M6,0H6a6,6,0,0,1,6,6V45a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(262 1200)" fill="#f0eff7"/>
+    <path id="Rectangle_665" data-name="Rectangle 665" d="M6,0H6a6,6,0,0,1,6,6V29a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(281 1216)" fill="#f0eff7"/>
+    <path id="Rectangle_666" data-name="Rectangle 666" d="M6,0H6a6,6,0,0,1,6,6V151a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(301 1094)" fill="#f0eff7"/>
+    <path id="Rectangle_677" data-name="Rectangle 677" d="M6,0H6a6,6,0,0,1,6,6V55a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(419 1190)" fill="url(#linear-gradient)"/>
+    <path id="Rectangle_667" data-name="Rectangle 667" d="M6,0H6a6,6,0,0,1,6,6V126a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(321 1119)" fill="#f0eff7"/>
+    <path id="Rectangle_676" data-name="Rectangle 676" d="M6,0H6a6,6,0,0,1,6,6V63a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(438 1182)" fill="url(#linear-gradient)"/>
+    <path id="Rectangle_668" data-name="Rectangle 668" d="M6,0H6a6,6,0,0,1,6,6V116a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(340 1129)" fill="#f0eff7"/>
+    <path id="Rectangle_675" data-name="Rectangle 675" d="M6,0H6a6,6,0,0,1,6,6V63a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(458 1182)" fill="url(#linear-gradient)"/>
+    <path id="Rectangle_681" data-name="Rectangle 681" d="M6,0H6a6,6,0,0,1,6,6V82a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(537 1163)" fill="url(#linear-gradient)"/>
+    <path id="Rectangle_685" data-name="Rectangle 685" d="M6,0H6a6,6,0,0,1,6,6V25a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(616 1220)" fill="#f0eff7"/>
+    <path id="Rectangle_669" data-name="Rectangle 669" d="M6,0H6a6,6,0,0,1,6,6v97a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(380 1142)" fill="url(#linear-gradient)"/>
+    <path id="Rectangle_673" data-name="Rectangle 673" d="M6,0H6a6,6,0,0,1,6,6v99a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(498 1140)" fill="url(#linear-gradient)"/>
+    <path id="Rectangle_679" data-name="Rectangle 679" d="M6,0H6a6,6,0,0,1,6,6V32a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(577 1213)" fill="#f0eff7"/>
+    <path id="Rectangle_683" data-name="Rectangle 683" d="M6,0H6a6,6,0,0,1,6,6V113a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(655 1132)" fill="#f0eff7"/>
+    <path id="Rectangle_687" data-name="Rectangle 687" d="M6,0H6a6,6,0,0,1,6,6V99a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(694 1146)" fill="#f0eff7"/>
+    <path id="Rectangle_671" data-name="Rectangle 671" d="M6,0H6a6,6,0,0,1,6,6V63a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(399 1182)" fill="url(#linear-gradient)"/>
+    <path id="Rectangle_672" data-name="Rectangle 672" d="M6,0H6a6,6,0,0,1,6,6V128a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(518 1117)" fill="url(#linear-gradient)"/>
+    <path id="Rectangle_678" data-name="Rectangle 678" d="M6,0H6a6,6,0,0,1,6,6V60a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(596 1185)" fill="#f0eff7"/>
+    <path id="Rectangle_682" data-name="Rectangle 682" d="M6,0H6a6,6,0,0,1,6,6V90a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(675 1155)" fill="#f0eff7"/>
+    <path id="Rectangle_689" data-name="Rectangle 689" d="M6,0H6a6,6,0,0,1,6,6V60a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(714 1185)" fill="#f0eff7"/>
+    <path id="Rectangle_670" data-name="Rectangle 670" d="M6,0H6a6,6,0,0,1,6,6V85a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(360 1160)" fill="#f0eff7"/>
+    <path id="Rectangle_674" data-name="Rectangle 674" d="M6,0H6a6,6,0,0,1,6,6V85a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(479 1160)" fill="url(#linear-gradient)"/>
+    <path id="Rectangle_680" data-name="Rectangle 680" d="M6,0H6a6,6,0,0,1,6,6V44a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(557 1201)" fill="url(#linear-gradient)"/>
+    <path id="Rectangle_684" data-name="Rectangle 684" d="M6,0H6a6,6,0,0,1,6,6V47a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(636 1198)" fill="#f0eff7"/>
+    <text id="_28" data-name="28" transform="translate(655 1266)" fill="#8f9198" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">28</tspan></text>
+    <text id="_7" data-name="7" transform="translate(246 1266)" fill="#8f9198" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">7</tspan></text>
+    <text id="_29" data-name="29" transform="translate(675 1266)" fill="#8f9198" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">29</tspan></text>
+    <text id="_8" data-name="8" transform="translate(265 1266)" fill="#8f9198" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">8</tspan></text>
+    <text id="_30" data-name="30" transform="translate(694 1266)" fill="#8f9198" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">30</tspan></text>
+    <text id="_9" data-name="9" transform="translate(285 1266)" fill="#8f9198" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">9</tspan></text>
+    <text id="_31" data-name="31" transform="translate(714 1266)" fill="#8f9198" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">31</tspan></text>
+    <text id="_10" data-name="10" transform="translate(302 1266)" fill="#8f9198" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">10</tspan></text>
+    <text id="_18" data-name="18" transform="translate(458 1266)" fill="#7d63ed" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">18</tspan></text>
+    <text id="_14" data-name="14" transform="translate(380 1266)" fill="#7d63ed" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">14</tspan></text>
+    <text id="_22" data-name="22" transform="translate(537 1266)" fill="#7d63ed" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">22</tspan></text>
+    <text id="_12" data-name="12" transform="translate(341 1266)" fill="#8f9198" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">12</tspan></text>
+    <text id="_20" data-name="20" transform="translate(499 1266)" fill="#7d63ed" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">20</tspan></text>
+    <text id="_16" data-name="16" transform="translate(419 1266)" fill="#7d63ed" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">16</tspan></text>
+    <text id="_24" data-name="24" transform="translate(577 1266)" fill="#8f9198" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">24</tspan></text>
+    <text id="_11" data-name="11" transform="translate(321 1266)" fill="#8f9198" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">11</tspan></text>
+    <text id="_19" data-name="19" transform="translate(479 1266)" fill="#7d63ed" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">19</tspan></text>
+    <text id="_15" data-name="15" transform="translate(400 1266)" fill="#7d63ed" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">15</tspan></text>
+    <text id="_23" data-name="23" transform="translate(557 1266)" fill="#7d63ed" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">23</tspan></text>
+    <text id="_13" data-name="13" transform="translate(360 1266)" fill="#8f9198" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">13</tspan></text>
+    <text id="_21" data-name="21" transform="translate(518 1266)" fill="#7d63ed" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">21</tspan></text>
+    <text id="_17" data-name="17" transform="translate(439 1266)" fill="#7d63ed" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">17</tspan></text>
+    <text id="_25" data-name="25" transform="translate(597 1266)" fill="#8f9198" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">25</tspan></text>
+    <text id="_26" data-name="26" transform="translate(616 1266)" fill="#8f9198" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">26</tspan></text>
+    <text id="_27" data-name="27" transform="translate(636 1266)" fill="#8f9198" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">27</tspan></text>
+    <text id="_5" data-name="5" transform="translate(206 1266)" fill="#8f9198" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">5</tspan></text>
+    <text id="_6" data-name="6" transform="translate(226 1266)" fill="#8f9198" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">6</tspan></text>
+    <g id="Ellipse_474" data-name="Ellipse 474" transform="translate(419 1190)" fill="#fff" stroke="#99aeff" stroke-width="1">
+      <circle cx="6" cy="6" r="6" stroke="none"/>
+      <circle cx="6" cy="6" r="5.5" fill="none"/>
+    </g>
+    <g id="Ellipse_477" data-name="Ellipse 477" transform="translate(438 1182)" fill="#fff" stroke="#99aeff" stroke-width="1">
+      <circle cx="6" cy="6" r="6" stroke="none"/>
+      <circle cx="6" cy="6" r="5.5" fill="none"/>
+    </g>
+    <g id="Ellipse_478" data-name="Ellipse 478" transform="translate(458 1182)" fill="#fff" stroke="#99aeff" stroke-width="1">
+      <circle cx="6" cy="6" r="6" stroke="none"/>
+      <circle cx="6" cy="6" r="5.5" fill="none"/>
+    </g>
+    <g id="Ellipse_479" data-name="Ellipse 479" transform="translate(479 1160)" fill="#fff" stroke="#99aeff" stroke-width="1">
+      <circle cx="6" cy="6" r="6" stroke="none"/>
+      <circle cx="6" cy="6" r="5.5" fill="none"/>
+    </g>
+    <g id="Ellipse_480" data-name="Ellipse 480" transform="translate(498 1140)" fill="#fff" stroke="#99aeff" stroke-width="1">
+      <circle cx="6" cy="6" r="6" stroke="none"/>
+      <circle cx="6" cy="6" r="5.5" fill="none"/>
+    </g>
+    <g id="Ellipse_481" data-name="Ellipse 481" transform="translate(518 1117)" fill="#fff" stroke="#99aeff" stroke-width="1">
+      <circle cx="6" cy="6" r="6" stroke="none"/>
+      <circle cx="6" cy="6" r="5.5" fill="none"/>
+    </g>
+    <g id="Ellipse_482" data-name="Ellipse 482" transform="translate(537 1163)" fill="#fff" stroke="#99aeff" stroke-width="1">
+      <circle cx="6" cy="6" r="6" stroke="none"/>
+      <circle cx="6" cy="6" r="5.5" fill="none"/>
+    </g>
+    <g id="Ellipse_483" data-name="Ellipse 483" transform="translate(557 1201)" fill="#fff" stroke="#99aeff" stroke-width="1">
+      <circle cx="6" cy="6" r="6" stroke="none"/>
+      <circle cx="6" cy="6" r="5.5" fill="none"/>
+    </g>
+    <g id="Ellipse_475" data-name="Ellipse 475" transform="translate(399 1182)" fill="#fff" stroke="#99aeff" stroke-width="1">
+      <circle cx="6" cy="6" r="6" stroke="none"/>
+      <circle cx="6" cy="6" r="5.5" fill="none"/>
+    </g>
+    <g id="Ellipse_476" data-name="Ellipse 476" transform="translate(380 1142)" fill="#fff" stroke="#99aeff" stroke-width="1">
+      <circle cx="6" cy="6" r="6" stroke="none"/>
+      <circle cx="6" cy="6" r="5.5" fill="none"/>
+    </g>
+    <g id="Group_1665" data-name="Group 1665" transform="translate(203 1001)">
+      <path id="Polygon_12" data-name="Polygon 12" d="M6,0l6,11H0Z" transform="translate(82 29)" fill="#0eb280"/>
+      <text id="_64318" data-name="64318" transform="translate(0 42)" fill="#fff" font-size="25" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">64318</tspan></text>
+      <text id="lượng_truy_cập" data-name="lượng truy cập" transform="translate(0 10)" fill="#adb9d8" font-size="9" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em"><tspan x="0" y="0">LƯỢNG TRUY CẬP</tspan></text>
+    </g>
+    <g id="Group_1666" data-name="Group 1666" transform="translate(538 1012)">
+      <g id="Rectangle_578" data-name="Rectangle 578" fill="#8486f8" stroke="#9494f4" stroke-width="1">
+        <rect width="188" height="30" rx="3" stroke="none"/>
+        <rect x="0.5" y="0.5" width="187" height="29" rx="2.5" fill="none"/>
+      </g>
+      <text id="THEO_THÁNG" data-name="THEO THÁNG" transform="translate(14 20)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">THEO THÁNG</tspan></text>
+      <path id="Rectangle_580" data-name="Rectangle 580" d="M0,0H85a2,2,0,0,1,2,2V26a2,2,0,0,1-2,2H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(100 1)" fill="#fff"/>
+      <text id="THEO_TUẦN" data-name="THEO TUẦN" transform="translate(114 20)" fill="#8486f8" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">THEO TUẦN</tspan></text>
+    </g>
+  </g>
+</svg>

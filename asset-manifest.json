@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/giaodien/static/css/main.859facfe.css",
+    "main.js": "/giaodien/static/js/main.eddc22a5.js",
+    "static/js/787.a5a764a4.chunk.js": "/giaodien/static/js/787.a5a764a4.chunk.js",
+    "static/media/avatar.svg": "/giaodien/static/media/avatar.7b8c12d29f3019c18ea37269c8105af3.svg",
+    "static/media/testThongKe.svg": "/giaodien/static/media/testThongKe.3a96fde4e72fa8a66192a3a6f78aee04.svg",
+    "static/media/icon_home.svg": "/giaodien/static/media/icon_home.e61a3927182a5e9376667b218b723bd3.svg",
+    "static/media/setting.svg": "/giaodien/static/media/setting.867a1c3f1950f5350d76be617b708ec0.svg",
+    "static/media/icon_add.svg": "/giaodien/static/media/icon_add.d73f8bf83b9a8b013e43d1c0dff4518e.svg",
+    "static/media/icon_lich.svg": "/giaodien/static/media/icon_lich.f5b635807eab07322bb05c784b759e29.svg",
+    "index.html": "/giaodien/index.html",
+    "static/media/chat.svg": "/giaodien/static/media/chat.8c1a96e925eb4edc96c8fffafdf8113b.svg",
+    "static/media/question.svg": "/giaodien/static/media/question.bcbbe4bfc22abeea30c977ec26ea215f.svg",
+    "static/media/gh_geo.svg": "/giaodien/static/media/gh_geo.53f05ed5a2f4ba99337912efe19b861f.svg",
+    "main.859facfe.css.map": "/giaodien/static/css/main.859facfe.css.map",
+    "main.eddc22a5.js.map": "/giaodien/static/js/main.eddc22a5.js.map",
+    "787.a5a764a4.chunk.js.map": "/giaodien/static/js/787.a5a764a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.859facfe.css",
+    "static/js/main.eddc22a5.js"
+  ]
+}
