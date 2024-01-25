@@ -93,7 +93,7 @@ function Context() {
             "text-sm-left mb-3   text-md-left mb-sm-0 col-12 col-sm-6"
           )}
         >
-          <TableDetail data={datatableDetail}></TableDetail>;
+          <TableDetail data={datatableDetail}></TableDetail>
         
         </div>
       </div>
@@ -122,7 +122,7 @@ function Context() {
         </div>
       </div>
     </div>
-  );
+  )
 }
 export default Context;
 

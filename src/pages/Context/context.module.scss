@@ -42,7 +42,7 @@
  .tableDetail{
    margin-left: auto;
    margin-right: auto;
-   background-color: #3F3F3F ;
+   background-color: var( --color-header-primary) ;
    border: 1px solid transparent;
    border-radius: 30px;
   &:hover{

@@ -77,10 +77,10 @@ function TableDetail({ data }) {
               {data.job}
             </div>
           </div>
-        );
+        )
       })}
     </>
-  );
+  )
 }
 
 export default TableDetail;

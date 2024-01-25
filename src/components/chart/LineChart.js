@@ -41,12 +41,12 @@ function LineChart({ chartData = [], onNavChange = () => {} }) {
           <h6
             className={cx(
               "luongtruycap",
-              "text-uppercase text-light ls-1 mb-1"
+              "text-uppercase  ls-1 mb-1"
             )}
           >
             Lượng truy cập
           </h6>
-          <h2 className={cx("title", "text-white mb-0")}>89890</h2>
+          <h2 className={cx("title", " mb-0")}>89890</h2>
         </div>
       </div>
       <Line
@@ -85,7 +85,7 @@ function LineChart({ chartData = [], onNavChange = () => {} }) {
                 drawOnChartArea: true,
                 drawTicks: false,
 
-                color: "rgba(255, 255, 255, .2)",
+                color: "#ccc",
               },
               ticks: {
                 padding: 8,

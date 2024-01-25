@@ -1,3 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="146" height="32" viewBox="0 0 146 32">
-  <text id="HT-GeoTech" transform="translate(0 26)" fill="#2483e2" font-size="24" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">HT</tspan><tspan y="0" fill="#1f2026">-GeoTech</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="32" viewBox="0 0 146 32">
+  <text id="HT-GeoTech" transform="translate(0 26)" fill="#2483e2" font-size="24" font-family="SegoeUIBlack, Segoe UI" font-weight="bold">
+  <tspan x="0" y="0">HT</tspan>
+  <tspan y="0" fill="#1f2026">-GeoTech</tspan>
+  </text>
 </svg>

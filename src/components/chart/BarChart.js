@@ -59,8 +59,8 @@ function BarChart({ chartData = [],onNavChange=()=>{} }) {
      <div className= {cx("container","container-bar")}>
           <div className="row">
             <div className="col">
-              <h6 className={cx("luongtruycap","text-uppercase text-light ls-1 mb-1")}>Lượng truy cập</h6>
-              <h2 className={cx("title","text-white mb-0")}>89890</h2>
+              <h6 className={cx("luongtruycap","text-uppercase  ls-1 mb-1")}>Lượng truy cập</h6>
+              <h2 className={cx("title"," mb-0")}>89890</h2>
             </div>
             <div className="col-5">
               <Nav className={cx("contain_button","")} pills>
@@ -116,7 +116,8 @@ function BarChart({ chartData = [],onNavChange=()=>{} }) {
                     drawOnChartArea: true,
                     drawTicks: false,
                     borderDash: [10, 10],
-                    color: "rgba(255, 255, 255, .2)",
+
+                color: "#ccc",
                   },
                   ticks: {
                    
